@@ -1,0 +1,24 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background-color: #f0f0f0;
+}
+.conte{
+    background-color: blueviolet;
+    text-align: center;
+    margin-top: 10%;
+    padding: 40px;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.usu, .con{
+background-color: white;
+
+padding: 30px;
+margin-left: 20%;
+margin-right: 20%;
+}
